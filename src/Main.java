@@ -56,5 +56,9 @@ public class Main {
         int result = x+y;
         System.out.println("Result Value:"+result);
     }
+
+    public static void Test(){
+
+    }
 }
 
