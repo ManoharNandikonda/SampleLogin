@@ -62,6 +62,7 @@ public class Main {
     public static void Test(){
 
         System.out.println("Test");
+        System.out.println("Test1");
 
     }
 }
