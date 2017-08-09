@@ -16,6 +16,7 @@ public class Main {
          MyClass.print();
 
         System.out.println("hello guys");
+        System.out.println("hello guys again");
 
     }
     /*
