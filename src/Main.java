@@ -14,6 +14,8 @@ public class Main {
 
          MyClass.print();
 
+        System.out.println("hello guys");
+
     }
     /*
         Created by Harsha
