@@ -13,6 +13,7 @@ public class Main {
         Login.Logging("Manohar",1234);
         System.out.println("hi");
         System.out.println("hiiiiii ");
+        System.out.println("Have a great day");
 
          MyClass.print();
 
