@@ -4,16 +4,12 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("Hello World!");
-        /*
-            created by Harsha
-         */
-        System.out.println("Hello Everyone!");
-        System.out.println("Hello E Gaints");
-        System.out.println("Hello E Gaints1");
         methodRankPoints(255.7);
         Temparature(99.00);
         Addition(5,5);
+
+        Testing t1= new Testing();
+        t1.Subtraction(10,5);
     }
     /*
         Created by Harsha
