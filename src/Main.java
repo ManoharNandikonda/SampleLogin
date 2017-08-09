@@ -1,3 +1,5 @@
+import com.sun.org.apache.xpath.internal.SourceTree;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -11,6 +13,7 @@ public class Main {
         System.out.println("Hello E Gaints1");
         methodRankPoints(255.7);
         Temparature(99.00);
+        Addition(5,5);
     }
     /*
         Created by Harsha
@@ -37,6 +40,12 @@ public class Main {
             System.out.println("High Fever please go forward with Tests for determine infection");
         }
 
+    }
+
+    public static void Addition(int x, int y){
+
+        int result = x+y;
+        System.out.println("Result Value:"+result);
     }
 }
 
