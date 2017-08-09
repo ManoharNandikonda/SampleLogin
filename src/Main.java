@@ -10,6 +10,7 @@ public class Main {
         System.out.println("Hello E Gaints");
         System.out.println("Hello E Gaints1");
         methodRankPoints(255.7);
+        Temparature(99.00);
     }
     /*
         Created by Harsha
@@ -23,4 +24,19 @@ public class Main {
             System.out.println("Rank:A3");
         }
     }
+    /* created by Manohar*/
+
+    public static void Temparature(double temp){
+        System.out.println("Please Enter your Temparature");
+
+        if(temp<98.00)
+            System.out.println("person infected by Low Fever Please consult Doctor");
+        else if(temp==98.00)
+            System.out.println("Normal body Temparature ");
+                else{
+            System.out.println("High Fever please go forward with Tests for determine infection");
+        }
+
+    }
 }
+
