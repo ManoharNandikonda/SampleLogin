@@ -23,7 +23,9 @@ public class Main {
             System.out.println("Rank:A3");
         }
     }
-    /* created by Manohar*/
+    /*
+    created by Manohar
+    * */
 
     public static void Temparature(double temp){
         System.out.println("Please Enter your Temparature");
