@@ -12,6 +12,9 @@ public class Main {
         t1.Subtraction(10,5);
         Login.Logging("Manohar",1234);
         System.out.println("hi");
+
+         MyClass.print();
+
     }
     /*
         Created by Harsha
@@ -51,6 +54,10 @@ public class Main {
 
         int result = x+y;
         System.out.println("Result Value:"+result);
+    }
+
+    public static void Test(){
+
     }
 }
 
