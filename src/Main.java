@@ -60,6 +60,8 @@ public class Main {
 
     public static void Test(){
 
+        System.out.println("Test");
+
     }
 }
 
