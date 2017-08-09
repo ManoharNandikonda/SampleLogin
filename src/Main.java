@@ -5,7 +5,7 @@ public class Main {
 
         methodRankPoints(255.7);
         MinNumber mini = new MinNumber();
-        mini.minFunction(2,3);
+        mini.maxFunction(2,3);
     }
     /*
         Created by Harsha

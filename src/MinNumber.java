@@ -3,14 +3,14 @@
  */
 public class MinNumber {
 
-    public static void  minFunction(int n1, int n2) {
-        int min;
-        if (n1 > n2)
-            min = n2;
+    public static void  maxFunction(int n1, int n2) {
+        int max;
+        if (n2 > n1)
+            max = n2;
         else
-            min = n1;
+            max = n1;
 
-        System.out.println(min);
+        System.out.println(max);
 
     }
 
