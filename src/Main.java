@@ -12,7 +12,7 @@ public class Main {
         t1.Subtraction(10,5);
         Login.Logging("Manohar",1234);
         System.out.println("hi");
-        System.out.println("hiiiiii pavan");
+        System.out.println("hiiiiii ");
 
          MyClass.print();
 
