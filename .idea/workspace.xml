@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="722c4bfb-9284-4f89-9406-31a46ce03a47" name="Default" comment="Added new class methodRankPoints">
+    <list default="true" id="722c4bfb-9284-4f89-9406-31a46ce03a47" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MinNumber.java" afterPath="$PROJECT_DIR$/src/MinNumber.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -678,7 +676,7 @@
       <option name="presentableId" value="Default" />
       <updated>1502299360976</updated>
       <workItem from="1502299362684" duration="4889000" />
-      <workItem from="1502306196934" duration="400000" />
+      <workItem from="1502306196934" duration="478000" />
     </task>
     <task id="LOCAL-00001" summary="Made Changes">
       <created>1502299758480</created>
@@ -701,11 +699,18 @@
       <option name="project" value="LOCAL" />
       <updated>1502301440749</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added new class methodRankPoints">
+      <created>1502306611970</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1502306611970</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5289000" />
+    <option name="totallyTimeSpent" value="5367000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -751,7 +756,8 @@
     <MESSAGE value="Made Changes" />
     <MESSAGE value="Made Changes with author" />
     <MESSAGE value="Added new method methodRankPoints" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new method methodRankPoints" />
+    <MESSAGE value="Added new class methodRankPoints" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new class methodRankPoints" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
